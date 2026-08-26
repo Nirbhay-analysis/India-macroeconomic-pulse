@@ -30,3 +30,9 @@ india-macro-dynamics-2012-2024/
 │   └── tableau_public_link.txt             # Direct link to Tableau Public
 │
 └── README.md                               # Project documentation & analysis
+---
+
+## 📚 Data Source & Attribution
+* **Primary Source:** NITI Aayog (National Institution for Transforming India)
+* **Time Horizon:** 2012 – 2024 (Annual aggregated metrics)
+* **Processing:** Cleaned and consolidated for time-series analysis
